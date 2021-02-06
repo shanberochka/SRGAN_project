@@ -6,7 +6,7 @@ Final project to Deep Learning School. Super resolution with GAN
 ## You can check how this works in notebook
 
 # Results
-![alt text](https://github.com/shanberochka/SRGAN/blob/main/results/2021-02-06.png)
+![alt text](https://github.com/shanberochka/SRGAN_project/blob/main/results/2021-02-06.png)
 
 ## Struct of project:
 ```
